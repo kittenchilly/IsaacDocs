@@ -50,6 +50,8 @@
 |[ ](#){: .rep .tooltip .badge }|45 |ID_BRIMSTONE2 {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|46 |ID_HOLY_CARD {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|47 |ID_KEEPER {: .copyable } |  |
+|[ ](#){: .rep .tooltip .badge }|48 |ID_CAMO_BOOST {: .copyable } |  |
+|[ ](#){: .rep .tooltip .badge }|49 |ID_LAZARUS_BOOST {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|50 |ID_SPIN_TO_WIN {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|51 |ID_BETHANY {: .copyable } |  |
 |[ ](#){: .rep .tooltip .badge }|52 |ID_JACOB {: .copyable } |  |
